@@ -1,0 +1,33 @@
+{
+  "name": "@song940/dashboard",
+  "version": "1.0.0",
+  "description": "simple app for react",
+  "main": "index.js",
+  "scripts": {
+    "build": "kelp-build",
+    "serve": "kelp-static"
+  },
+  "author": "lsong",
+  "license": "MIT",
+  "devDependencies": {
+    "antd": "^3.25.3",
+    "kelp-build": "^0.0.4",
+    "kelp-static": "^1.2.9",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0",
+    "react-loadable": "^5.5.0",
+    "react-router-dom": "^4.3.1"
+  },
+  "keywords": [
+    "react",
+    "demo"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/react-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/react-app/issues"
+  },
+  "homepage": "https://github.com/song940/react-app#readme"
+}
